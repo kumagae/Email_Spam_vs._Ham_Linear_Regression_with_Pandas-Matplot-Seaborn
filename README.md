@@ -1,7 +1,7 @@
 # Linear-Regression-Pandas-Matplot-Seaborn---Kaggle-Email-Spam-vs.-Ham
 Using Linear Regression, Pandas, Matplot and Seaborn to create and filter spam emails.
 
-This project uses linear regression, pandas, matplot and seaborn to classify and visualize an email classification model.
+This project uses linear regression, pandas, matplot and seaborn to classify and visualize an email classification model. The project also does some analysis into precision and recall metrics, more specifically it contains a percision-recall curve to get an idea of the classification performance. 
 
 The jupyter notebook contained in the repository shows my analysis and vizulizations. It is also sectioned into different parts of the analysis. 
 Mainly a data wrangling and EDA section, then modeling and graphing section. 
